@@ -1,0 +1,53 @@
+body
+{
+    text-align: center;
+}
+
+table
+{
+    margin: auto;
+}
+
+.title
+{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(126, 61, 0);
+}
+
+#case
+{
+    height: 37px;
+    width: 212px;
+    border: 2px solid rgb(126, 61, 0);
+}
+
+.number
+{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid rgb(126, 61, 0);
+    background-color:  rgb(196, 121, 60);
+}
+
+.number:hover 
+{
+    background-color: rgb(126, 61, 0);
+}
+
+.operator
+{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid rgb(196, 121, 60);
+    background-color: rgb(126, 61, 0);
+}
+
+  .operator:hover
+{
+    background-color: rgb(90, 44, 0);
+}
